@@ -100,7 +100,7 @@ class MainActivity(
                     Scaffold(
                         topBar = {
                             TopAppBar(
-                                title = { Text(text = "Example app") }
+                                title = { Text(text = "Tools Detector") }
                             )
                         }
                     ) { it ->
